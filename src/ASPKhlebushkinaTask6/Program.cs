@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 
-namespace ASPKhlebushkinaTask6
+namespace ASPKHLEBUSHKINATASK6
 {
     public class Program
     {

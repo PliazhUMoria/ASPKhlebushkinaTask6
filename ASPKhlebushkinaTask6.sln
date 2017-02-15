@@ -3,14 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{97126684-4DA1-4A53-87C2-D7615B322E8B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9A973BDB-D994-47BA-AAD9-9A5E51ABFF4F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{77F42469-5955-46D5-A691-EFE359121454}"
-	ProjectSection(SolutionItems) = preProject
-		global.json = global.json
-	EndProjectSection
-EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ASPKhlebushkinaTask6", "src\ASPKhlebushkinaTask6\ASPKhlebushkinaTask6.xproj", "{31F634FC-7E77-4DB5-8E4B-81D5B25477BB}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ASPKHLEBUSHKINATASK6", "src\ASPKHLEBUSHKINATASK6\ASPKHLEBUSHKINATASK6.xproj", "{6B483043-9436-4AC5-8FBD-2CDE1DE46D78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,15 +13,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{31F634FC-7E77-4DB5-8E4B-81D5B25477BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{31F634FC-7E77-4DB5-8E4B-81D5B25477BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{31F634FC-7E77-4DB5-8E4B-81D5B25477BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{31F634FC-7E77-4DB5-8E4B-81D5B25477BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B483043-9436-4AC5-8FBD-2CDE1DE46D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B483043-9436-4AC5-8FBD-2CDE1DE46D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B483043-9436-4AC5-8FBD-2CDE1DE46D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B483043-9436-4AC5-8FBD-2CDE1DE46D78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{31F634FC-7E77-4DB5-8E4B-81D5B25477BB} = {97126684-4DA1-4A53-87C2-D7615B322E8B}
+		{6B483043-9436-4AC5-8FBD-2CDE1DE46D78} = {9A973BDB-D994-47BA-AAD9-9A5E51ABFF4F}
 	EndGlobalSection
 EndGlobal

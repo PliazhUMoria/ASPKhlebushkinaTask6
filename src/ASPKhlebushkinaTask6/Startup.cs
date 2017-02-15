@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace ASPKhlebushkinaTask6
+namespace ASPKHLEBUSHKINATASK6
 {
     public class Startup
     {
@@ -28,10 +28,13 @@ namespace ASPKhlebushkinaTask6
                 app.UseDeveloperExceptionPage();
             }
 
-            app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync("Hello World!");
-            });
+            //app.Run(async (context) =>
+            //{
+            //    await context.Response.WriteAsync("Hello World!");
+            //});
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
+
         }
     }
 }

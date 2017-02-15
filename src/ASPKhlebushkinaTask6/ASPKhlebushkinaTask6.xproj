@@ -7,8 +7,8 @@
 
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>31f634fc-7e77-4db5-8e4b-81d5b25477bb</ProjectGuid>
-    <RootNamespace>ASPKhlebushkinaTask6</RootNamespace>
+    <ProjectGuid>6b483043-9436-4ac5-8fbd-2cde1de46d78</ProjectGuid>
+    <RootNamespace>ASPKHLEBUSHKINATASK6</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
